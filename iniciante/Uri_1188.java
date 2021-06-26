@@ -3,7 +3,7 @@ package iniciante;
 import java.text.DecimalFormat;
 import java.util.Scanner;
 
-public class uri_1188 {
+public class Uri_1188 {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
         DecimalFormat df = new DecimalFormat("0.0");
