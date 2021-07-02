@@ -23,17 +23,13 @@ public class Uri_2028 {
             }
             for(int i = 0; i <= n; i++){
                 for(int p = 0; p < i; p++){
-                    cont++;
-                }
-            }
-            System.out.println("Caso" + " " + caso + ": " + (cont+1) +" numeros");
-            System.out.print(0);
-            for(int i = 0; i <= n; i++){
-                for(int p = 0; p < i; p++){
                     str.append(" " + i);
+                     cont++;
                 }
             }
             caso++;
+            System.out.println("Caso" + " " + caso + ": " + (cont+1) +" numeros");
+            System.out.print(0);
             System.out.print(str.toString());
             System.out.println();
             System.out.println();
