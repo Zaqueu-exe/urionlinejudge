@@ -1,2 +1,2 @@
-# urionlinejudge
-Alguns problemas da URI Online judge resolvidos em java que estou fazendo para melhorar minha logica
+# beecrowd
+Alguns exercícios da beecrowd resolvidos em java e SQL para melhorar minha lógica de programação.
